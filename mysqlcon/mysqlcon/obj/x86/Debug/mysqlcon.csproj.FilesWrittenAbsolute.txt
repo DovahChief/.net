@@ -1,0 +1,7 @@
+/home/jose/Documentos/csharp/mysqlcon/mysqlcon/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jose/Documentos/csharp/mysqlcon/mysqlcon/bin/Debug/mysqlcon.exe.mdb
+/home/jose/Documentos/csharp/mysqlcon/mysqlcon/bin/Debug/mysqlcon.exe
+/home/jose/Documentos/csharp/mysqlcon/mysqlcon/obj/x86/Debug/mysqlcon.exe
+/home/jose/Documentos/csharp/mysqlcon/mysqlcon/obj/x86/Debug/mysqlcon.exe.mdb
+/home/jose/Documentos/csharp/mysqlcon/mysqlcon/bin/Debug/MySql.Data.dll
+/home/jose/Documentos/csharp/mysqlcon/mysqlcon/bin/Debug/System.Data.dll

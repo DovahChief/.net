@@ -1,0 +1,5 @@
+/home/jose/Documentos/csharp/basico/basico/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jose/Documentos/csharp/basico/basico/bin/Debug/basico.exe.mdb
+/home/jose/Documentos/csharp/basico/basico/bin/Debug/basico.exe
+/home/jose/Documentos/csharp/basico/basico/obj/x86/Debug/basico.exe
+/home/jose/Documentos/csharp/basico/basico/obj/x86/Debug/basico.exe.mdb
